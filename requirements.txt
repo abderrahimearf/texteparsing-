@@ -1,0 +1,4 @@
+streamlit>=1.20.0
+pymupdf>=1.23.0      # le module fitz
+pdfplumber>=0.8.0
+docling>=4.1.0
